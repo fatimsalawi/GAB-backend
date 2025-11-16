@@ -1,0 +1,6 @@
+@GAB_HostAddress = http://localhost:5272
+
+GET {{GAB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
